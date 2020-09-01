@@ -3,10 +3,11 @@
 *.db
 
 assets/mix-manifest.json
-assets/[css|js]*
+assets/css/*
 
 npm-debug.log
 node_modules
 
 .DS_Store
 .idea
+assets/js/*
