@@ -3,6 +3,7 @@
 *.db
 
 assets/mix-manifest.json
+assets/[css|js]*
 
 npm-debug.log
 node_modules
